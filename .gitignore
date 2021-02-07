@@ -1,0 +1,4 @@
+.env
+BotzHub.session
+__pycache__/
+BotzHub.session-journal
